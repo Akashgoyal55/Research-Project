@@ -1,1 +1,2 @@
-# CSC_895
+# Research-Project
+Research project, including frontend and backend.
